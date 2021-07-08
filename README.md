@@ -1,6 +1,4 @@
 ## Walmart Recruiting - Store Sales Forecasting:
-![alt text](https://timedotcom.files.wordpress.com/2014/12/141224_em_walmart_12.jpg)
-![alt text](https://images.axios.com/BNRM0XIdikc9otyUIXlhmcgtRQ0=/0x0:1920x1080/1920x1080/2018/11/16/1542329040205.jpg)
 
 - Walmart has provided historical sales data for 45 Walmart stores located in different regions. 
 - Each store contains a number of departments, and we are tasked with predicting the department-wide sales for each store.
@@ -52,9 +50,3 @@
     We have been provided with dates where we can predict the salesfor each date mentioned in this csv file
 
 
-- For convenience, the four holidays fall within the following weeks in the dataset (not all holidays are in the data):
-
-  - Super Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13
-  - Labor Day: 10-Sep-10, 9-Sep-11, 7-Sep-12, 6-Sep-13
-  - Thanksgiving: 26-Nov-10, 25-Nov-11, 23-Nov-12, 29-Nov-13
-  - Christmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13

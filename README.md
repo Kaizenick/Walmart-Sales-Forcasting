@@ -9,7 +9,7 @@
 
 
 - The goal is to predict the Weekly Sales for the future dates that Walmart has given in test.csv file.
-- This Kaggel competition is available at https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
+- This Kaggle competition is available at https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
 
 #### Data:
 - The dataset essentially contains five scv files which are descibed as follows.
